@@ -37,3 +37,4 @@ def arrange(board, solutions = [], r = 0)
   solutions
 end
 
+

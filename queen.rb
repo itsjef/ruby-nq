@@ -12,3 +12,4 @@ solutions.each_with_index do |solution,index|
   puts "#{index+1}".center(size*2-1)
   display_board(solution, size)
 end
+
